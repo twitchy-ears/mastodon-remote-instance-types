@@ -3,6 +3,7 @@ A very quick hack for dumping out some information for helping you guess the kin
 
 As per the --help
 
+```
 remote-instance-types.pl [-h|-d] 
 
  -h --help
@@ -35,3 +36,4 @@ FAIL: 'url' status 'code'
 
 The source_url should be a repo of the remote instances source, which enables
 you to best guess its instance type.
+```
